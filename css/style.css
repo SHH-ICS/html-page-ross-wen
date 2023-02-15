@@ -1,0 +1,17 @@
+/*
+This CSS file is for index.html HTML-page-Ross-Wen
+*/
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: tomato;
+    padding: 40px;
+    text-align: center;
+  }
+
+p {
+    color:DodgerBlue
+}
