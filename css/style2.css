@@ -1,0 +1,44 @@
+/*
+This CSS file is for index2.html HTML-page-Ross-Wen
+*/
+
+body {
+  background-color: beige;
+}
+
+h1 {
+  background: blue;
+  color: tomato;
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  color:DodgerBlue;
+}
+
+ul {
+  color: aquamarine;
+}
+
+ul li::before {
+  content: "✅";
+}
+
+table {
+  border: solid;
+}
+
+th {
+  height: 2rem;
+  background: red;
+  border: 1px solid white;
+  text-align: left;
+}
+
+td {
+  height: 2rem;
+  background: lightblue;
+  border: 1px solid black;
+  text-align: center;
+}
