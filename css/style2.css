@@ -23,6 +23,7 @@ ul {
 
 ul li::before {
   content: "✅";
+  color: black;
 }
 
 table {
@@ -42,4 +43,3 @@ td {
   border: 1px solid black;
   text-align: center;
 }
-
